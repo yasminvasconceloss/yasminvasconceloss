@@ -1,7 +1,7 @@
 ## Olá, sou a Yasmin Vasconcelos!👋
 
 - 🔭 Atualmente estou cursando o último ano do curso técnico em desenvolvimento de sistemas (games) na ETE FMC.
-- 🌱 Iniciando aprendizado em C#
+- 🌱 
 <div align="center">
   <a href="https://github.com/yasminvasconceloss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminvasconceloss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
