@@ -1,6 +1,6 @@
 ## Olá, sou a Yasmin Vasconcelos!👋
 
-- 🔭 Atualmente estou cursando o último ano do curso técnico em desenvolvimento de sistemas (games) na ETE FMC.
+- 🔭 Atualmente estou cursando o primeiro período de Engenharia de Software no INATEL.
 - 🌱 
 <div align="center">
   <a href="https://github.com/yasminvasconceloss">
