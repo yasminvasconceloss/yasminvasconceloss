@@ -1,6 +1,6 @@
 ## Olá, sou a Yasmin Vasconcelos!👋
 
-- 🔭 Atualmente estou cursando o primeiro período de Engenharia de Software no INATEL.
+- 🔭 Atualmente estou cursando Engenharia de Software no INATEL.
 - 🌱 
 
   ##
