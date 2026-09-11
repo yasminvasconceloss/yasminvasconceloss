@@ -133,9 +133,8 @@ Durante a graduação, também desenvolvo projetos utilizando diferentes tecnolo
 ## 🐍 Minhas contribuições
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/yasminvasconceloss/yasminvasconceloss/output/github-contribution-grid-snake-dark.svg)
-
+  <h3>2026 / Contribuições do Ano</h3>
+  <img src="https://raw.githubusercontent.com/yasminvasconceloss/yasminvasconceloss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
