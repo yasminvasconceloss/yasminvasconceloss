@@ -117,6 +117,7 @@ Durante a graduação, também desenvolvo projetos utilizando diferentes tecnolo
 
 </div>
 
+
 ---
 
 ## 🔥 Sequência de contribuições
@@ -133,7 +134,7 @@ Durante a graduação, também desenvolvo projetos utilizando diferentes tecnolo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yasminvasconceloss/yasminvasconceloss/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do GitHub" />
+<img src="https://raw.githubusercontent.com/yasminvasconceloss/yasminvasconceloss/output/github-contribution-grid-snake.svg" alt="Animação das minhas contribuições no GitHub" />
 
 </div>
 
